@@ -7,19 +7,10 @@ We will keep updating this github.
 
 Currently, to cite this paper, you could use this bibtex
 ```
-@ARTICLE{2021arXiv210208369Z,
-       author = {{Zhao}, Zilong and {Kunar}, Aditya and {Van der Scheer}, Hiek and {Birke}, Robert and {Chen}, Lydia Y.},
-        title = "{CTAB-GAN: Effective Table Data Synthesizing}",
-      journal = {arXiv e-prints},
-     keywords = {Computer Science - Machine Learning, I.2.m},
-         year = 2021,
-        month = feb,
-          eid = {arXiv:2102.08369},
-        pages = {arXiv:2102.08369},
-archivePrefix = {arXiv},
-       eprint = {2102.08369},
- primaryClass = {cs.LG},
-       adsurl = {https://ui.adsabs.harvard.edu/abs/2021arXiv210208369Z},
-      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+@article{zhao2021ctab,
+  title={CTAB-GAN: Effective Table Data Synthesizing},
+  author={Zhao, Zilong and Kunar, Aditya and Van der Scheer, Hiek and Birke, Robert and Chen, Lydia Y},
+  journal={arXiv preprint arXiv:2102.08369},
+  year={2021}
 }
 ```
