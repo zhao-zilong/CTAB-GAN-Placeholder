@@ -8,7 +8,7 @@ We will keep updating this github.
 Currently, to cite this paper, you could use this bibtex
 ```
 @article{zhao2021ctab,
-  title={CTAB-GAN: Effective Table Data Synthesizing},
+  title={{CTAB-GAN}: Effective Table Data Synthesizing},
   author={Zhao, Zilong and Kunar, Aditya and Van der Scheer, Hiek and Birke, Robert and Chen, Lydia Y},
   journal={arXiv preprint arXiv:2102.08369},
   year={2021}
