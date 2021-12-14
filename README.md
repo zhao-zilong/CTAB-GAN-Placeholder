@@ -5,18 +5,10 @@ We will keep updating this github.
 
 Currently, to cite this paper, you could use this bibtex
 ```
-@InProceedings{pmlr-v157-zhao21a,
-  title = 	 {CTAB-GAN: Effective Table Data Synthesizing},
-  author =       {Zhao, Zilong and Kunar, Aditya and Birke, Robert and Chen, Lydia Y.},
-  booktitle = 	 {Proceedings of The 13th Asian Conference on Machine Learning},
-  pages = 	 {97--112},
-  year = 	 {2021},
-  editor = 	 {Balasubramanian, Vineeth N. and Tsang, Ivor},
-  volume = 	 {157},
-  series = 	 {Proceedings of Machine Learning Research},
-  month = 	 {17--19 Nov},
-  publisher =    {PMLR},
-  pdf = 	 {https://proceedings.mlr.press/v157/zhao21a/zhao21a.pdf},
-  url = 	 {https://proceedings.mlr.press/v157/zhao21a.html}
+@article{zhao2021ctab,
+  title={CTAB-GAN: Effective Table Data Synthesizing},
+  author={Zhao, Zilong and Kunar, Aditya and Van der Scheer, Hiek and Birke, Robert and Chen, Lydia Y},
+  journal={arXiv preprint arXiv:2102.08369},
+  year={2021}
 }
 ```
